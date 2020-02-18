@@ -2,6 +2,7 @@
 layout: page
 title: Search
 image: false
+front: false
 ---
 
 <script>

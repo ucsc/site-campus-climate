@@ -1,8 +1,11 @@
 ---
 layout: collection
 collection: announcements
-title: "News &amp; Information"
-order: 4
 data: feed
+title: "News &amp; Information"
+description: |
+  Stay up to date with the latest information on campus status.
+menu: "News &amp; Updates"
+order: 5
 ---
 

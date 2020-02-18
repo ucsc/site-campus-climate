@@ -1,11 +1,13 @@
 ---
 layout: page
-title: Contact the Chancellor
-menu: "Contact"
-order: 5
+title: "Your comments"
+description: |
+  Submit your thoughts and feedback.
+menu: "Comments"
+order: 6
 ---
 
-<form class="pa2 black-80" name="contact" method="POST" data-netlify="true">
+<form class="pa2 black-80" name="comments" method="POST" data-netlify="true">
   <div class="pa2">
     <label for="name" class="f5 db mb2 navy">Your name</label>
     <input type="text" id="name" name="name" />

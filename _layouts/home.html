@@ -26,25 +26,22 @@ layout: default
             </div>
           </div>
 
-         <div class="row three flex separate dark">
+         <div class="row grid">
 
-          <div class="wrap">
-             <div class="block profile-block" id="profile">
-               <h3 class="block-header">Header Text</h3>
-               <div class="inner">
-               Content
+          {% assign blocks = site.pages | sort: "order" %}
+          {% for p in blocks %}
+            {% if p.menu %}
+            <div class="wrap">
+               <div class="block profile-block" id="profile">
+                 <h3 class="block-header">{{ p.title }}</h3>
+                 <div class="inner">
+                   {{ p.description }}
+                 </div>
                </div>
              </div>
-           </div>
+            {% endif %}
 
-            <div class="wrap">
-              <div class="block quote-block" id="profile">
-                <h3 class="block-header">Header Content</h3>
-                <div class="inner">
-                  Content
-                  </a>
-                </div>
-              </div>
-            </div>
+          {% endfor %}
+
 
           </div>

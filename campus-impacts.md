@@ -1,8 +1,10 @@
 ---
 layout: page
 title: "Campus Impacts and Tradeoffs"
+description: |
+  The current teaching strike, while not widespread, has had a profound and negative impact on the mission of our school.  Learn more about how the teaching strike is affecting our undergraduate students, our staff, and the safety of our campus.
 menu: "Campus Impacts"
-order: 2
+order: 3
 ---
 
 - Undergraduates (Link to report concerns about class & schedule interruptions)
