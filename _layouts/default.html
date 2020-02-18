@@ -83,11 +83,11 @@
         </div>
       </div>
 
-      <div class="row main-navigation" role="navigation">
-
-        {% include navigation.html %}
-
-      </div>
+      {% unless page.url == '/' %}
+        <div class="row main-navigation" role="navigation">
+          {% include navigation.html %}
+        </div>
+      {% endunless %}
 
     </div>
 

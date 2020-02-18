@@ -5,6 +5,7 @@ description: |
   Submit your thoughts and feedback.
 menu: "Comments"
 order: 6
+color: "#13a5dc"
 ---
 
 <form class="pa2 black-80" name="comments" method="POST" data-netlify="true">
@@ -15,6 +16,22 @@ order: 6
   <div class="pa2">
     <label for="email" class="f5 db mb2 navy">Your email</label>
     <input type="email" id="email" name="email" />
+  </div>
+    <div class="pa2">
+    <label for="phone" class="f5 db mb2 navy">Your phone number</label>
+    <input type="phone" id="phone" name="phone" />
+  </div>
+  <div class="pa2">
+    <label for="affiliation">Your affiliation to campus:
+      <select name="affiliation" id="affiliation">
+        <option value="undergraduate">Undergraduate student</option>
+        <option value="graduate">Graduate student</option>
+        <option value="faculty-staff">Faculty or staff</option>
+        <option value="parent">Parent</option>
+        <option value="alumni">Alumni</option>
+        <option value="community">Community member</option>
+      </select>
+    </label>
   </div>
   <div class="pa2">
   <label for="comment" class="f5 db mb2 navy">Comments</label>

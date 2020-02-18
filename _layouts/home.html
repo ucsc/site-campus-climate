@@ -26,22 +26,22 @@ layout: default
             </div>
           </div>
 
-         <div class="row grid">
-
-          {% assign blocks = site.pages | sort: "order" %}
-          {% for p in blocks %}
-            {% if p.menu %}
-            <div class="wrap">
-               <div class="block profile-block" id="profile">
-                 <h3 class="block-header">{{ p.title }}</h3>
-                 <div class="inner">
-                   {{ p.description }}
-                 </div>
-               </div>
-             </div>
-            {% endif %}
-
-          {% endfor %}
-
-
+         <div class="row">
+           <ul class="grid-container">
+              {% assign blocks = site.pages | sort: "order" %}
+              {% for p in blocks %}
+                {% if p.menu %}
+                <li style="background-color: {{ p.color }}">
+                  <a href="{{ p.url }}">
+                  <div class="block profile-block" id="profile">
+                    <h3 class="block-header">{{ p.title }}</h3>
+                    <!-- <div class="inner">
+                    {{ p.description }}
+                    </div> -->
+                  </div>
+                  </a>
+                </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
           </div>

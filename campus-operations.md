@@ -5,6 +5,7 @@ description: |
   Stay up to date with the latest information on road closings.
 menu: "Campus Operations"
 order: 4
+color: "#93c02d"
 ---
 
 - Ongoing updates about the situation (just the facts)

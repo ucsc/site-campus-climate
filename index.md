@@ -1,11 +1,6 @@
 ---
 layout: home
 menu: false
-hero:
-    url: "https://i.picsum.photos/id/744/1080/346.jpg"
-    text: "Alternative text"
-    headline: "Sample"
-    description: "header"
 ---
 
 As one of the most respected public research universities both nationally and internationally, UC Santa Cruz offers world-class facilities on one the most visually spectacular settings in higher education.  But this distinction is not without its own challenges.  The desirability of our beautiful campus is matched by the attraction of the city and county of Santa Cruz itself, which in turn has lately draw new residents commuting to nearby Silicon Valley. 
