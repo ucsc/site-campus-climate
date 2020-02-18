@@ -1,0 +1,4 @@
+- url: "https://news.ucsc.edu"
+  title: "Sample"
+  date: 2020-02-17 13:30:00
+  tags: ["announcement","email"]

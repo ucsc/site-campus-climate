@@ -1,0 +1,50 @@
+---
+layout: default
+---
+
+        {% if page.hero %}
+          <section class="row hero">
+            <div class="hero-area">
+              {%- if page.hero.link %}
+              <a href="{{ page.hero.link }}">
+              {% endif %}
+              <img src="{{ page.hero.url }}" alt="{{ page.hero.text }}">
+              <div class="text">
+                <h2>{{ page.hero.headline }}</h2>
+                <p>{{ page.hero.description }}</p>
+              </div>
+              {%- if page.hero.link %}
+              </a>
+              {% endif %}
+            </div>
+          </section>
+        {% endif %}
+
+          <div class="row">
+            <div class="main-content">
+              {{ content }}
+            </div>
+          </div>
+
+         <div class="row three flex separate dark">
+
+          <div class="wrap">
+             <div class="block profile-block" id="profile">
+               <h3 class="block-header">Header Text</h3>
+               <div class="inner">
+               Content
+               </div>
+             </div>
+           </div>
+
+            <div class="wrap">
+              <div class="block quote-block" id="profile">
+                <h3 class="block-header">Header Content</h3>
+                <div class="inner">
+                  Content
+                  </a>
+                </div>
+              </div>
+            </div>
+
+          </div>
