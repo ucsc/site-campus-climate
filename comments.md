@@ -4,8 +4,12 @@ title: "Your comments"
 description: |
   Submit your thoughts and feedback.
 menu: "Comments"
+related: true
 order: 6
-color: "#13a5dc"
+front: 
+  bg: "#13a5dc"
+  color: "#fff"
+  icon: "speech-bubble-6.svg"
 ---
 
 <form class="pa2 black-80" name="comments" method="POST" data-netlify="true">

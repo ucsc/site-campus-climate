@@ -4,6 +4,18 @@
     color: rgba(7, 78, 132, 1.00);
 }
 
+h2 {
+  font-size: 1.58rem;
+  font-weight: 400;
+}
+
+h3 {
+  font-size: 1.18rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #333333;
+}
+
 #sprflt {
     .main-content,
     .sidebar {
@@ -194,19 +206,43 @@ a:focus-visible {
   margin: 1em 0;
   padding: 0;
   display: grid;
+  grid-gap: .5em;
 
   li {
-    padding: 1em 1.5em;
+    padding: 0;
     margin: 0;
     list-style: none;
     text-align: center;
 
     a {
+      padding: 1em 1.5em;
       display: flex;
-justify-content: center; /* align horizontal */
-align-items: center; /* align vertical */
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
       min-height: 6em;
-      text-align: center;
+      text-align: left;
+      color: #fff;
+      line-height: 1.2;
+      height: 100%;
+
+      .block-header {
+        color: #fff;
+      }
+
+      .inner {
+        line-height: 1.15;
+        font-size: .9rem;
+      }
+
+      svg {
+        align-self: center;
+        margin: 1em;
+        fill: cornsilk;
+        width: auto;
+        height: 60px;
+        display: inline-block;
+      }
     }
 
     h3 {
@@ -252,4 +288,8 @@ align-items: center; /* align vertical */
     text-decoration: none;
     background-color: #CDECFF99;
   }
+}
+
+.living-in-santa-cruz tr td:nth-child(1) {
+  width: 22%;
 }

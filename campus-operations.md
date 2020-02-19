@@ -5,9 +5,11 @@ description: |
   Stay up to date with the latest information on road closings.
 menu: "Campus Operations"
 order: 4
-color: "#93c02d"
 related: true
+front:
+  bg: "#93c02d"
+  color: "#fff"
+  icon: "construction-28.svg"
 ---
 
-- Ongoing updates about the situation (just the facts)
-- Submit a report (i.e. injury from police)
+This page redirects to the campus updates page.

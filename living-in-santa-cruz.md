@@ -5,40 +5,58 @@ description: |
   There's no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California.  However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures. Learn more about living in Santa Cruz.
 menu: "Living in Santa Cruz"
 order: 1
-color: "#13a5dc"
 related: true
+front:
+  bg: "#13a5dc"
+  color: "#fff"
+  icon: "home-7.svg"
 ---
 
-There’s no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California.  However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures.
-
-First and foremost, it’s important to understand that all information about costs are readily available on our website. Graduate students can access this information via [the admissions FAQ page which links to student budgets](https://financialaid.ucsc.edu/cost-to-attend/graduate-costs.html).  From that page, more specific information about rental rates based on Housing and Urban Development data can be found [on the UCOP website](https://www.ucop.edu/student-affairs/_files/housing-costs-near-campuses.pdf).  This page provides campus to campus comparisons and also “strongly encourages prospective students and their families to consider how their own costs might differ from those given in the estimates.” 
-
-The HUD housing estimate of **$2,042** for a one-bedroom closely aligns with publicly available information.  It also demonstrates how shared housing can have a significant impact in reducing rent burden.
-
-## Why does the HUD number differ so much from the average that has been reported in news stories and social media?
-
-It’s important to keep in mind that the Rent Café average rental price of $2611 reported in news and social media is not for a one bedroom.  Instead, it represents ALL rental units regardless of number of bedrooms (1, 5, or more).  
-
-Another problem with averages, is that they do not to take into account the quality of the rental which is why the most recent census data for city and county of Santa Cruz returns much lower averages:
+There's no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California. However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures.
  
-|  | Santa Cruz |  Cost Per Person |
+## Rental Costs--What's Behind the Numbers Being Reported?
+
+First and foremost, it's important to understand that all information about costs are readily available on our website. Graduate students can access this information via the admissions FAQ page which [links to student budgets](https://financialaid.ucsc.edu/cost-to-attend/graduate-costs.html). From that page, more specific information about rental rates based on Housing and Urban Development data can be found on [the UCOP website](https://www.ucop.edu/student-affairs/_files/housing-costs-near-campuses.pdf). This page provides campus to campus comparisons and also "strongly encourages prospective students and their families to consider how their own costs might differ from those given in the estimates."
+ 
+The HUD housing estimate of __$2,042__ for a one-bedroom closely aligns with other publicly available information. It also demonstrates how shared housing can have a significant impact in reducing rent burden.
+
+| | United States HUD Average Per Person Rent by # Bedrooms* |  United States Census 2018 Median Per Person Rent by # Bedrooms |
 | ------------- |:-------------:| -----:|
 | 1 bedroom |  $1,359 |  $1,359 |
 | 2 bedrooms |  $1,903 |  $952 |
 | 3 bedrooms |  $2,046 |  $682 |
 | 4 bedrooms |  $1,824 |  $456 |
 
-**Bottom line**—beware of averages when trying to understand the Santa Cruz market.  A better tool for understanding rental rates is a median like that reported by Rentometer which recently returned $2034 for a one bedroom in Santa Cruz—a number more in line with the HUD estimates on which the university relies.
+<small>* U.S. Department of Housing and Urban Development (HUD) 2019 Small Area Fair Market Rent and calculated the average for zip codes within a 5-mile radius of each campus location</small>
+
+## FAQ
+
+- Q. Why does the HUD number differ so much from the average that has been reported in news stories and social media?
+- A. It’s important to keep in mind that the Rent Café average rental price of $2611 reported in news and social media is NOT for a one bedroom.  Instead, it represents ALL rental units regardless of number of bedrooms (1, 5, or more). 
+
+- Q. Would medians be a better tool then?
+- A.  In principle that is a better tool as it represents the 50% mark of units rented.  But as the Census Data demonstrates, that can be difficult as well. It’s important to keep catchment areas similar—the census catchment area in the chart above is much larger than the HUD one used by UCOP. When we compare like to like—the catchment area and the number of bedrooms—the numbers should be fairly similar. For example, a recent [Rentometer report](https://www.rentometer.com/analysis/1-bed/1156-high-st-santa-cruz-california-95064/SNmFE149pvc/overview) returned an average rent of $2044 in a three mile radius from the UCSC campus—just $1 off the HUD estimate and a median of $1998—just $45 lower than the HUD number. 
 
 ## Near-Term Solutions
 
 Even with a better understanding of the costs, it is still clear that Santa Cruz is one of the more expensive campuses in the UC system.  This is an issue for which there are no easy answers; one that our campus has been struggling with for many years—at times with more success than others.  
-
+ 
 Recognizing that the short-term challenge needs to be addressed while we focus on longer-term solutions, Chancellor Larive in January announced two new programs to provide doctoral and MFA students with greater financial security and predictability:
 
-- **5-year/50% Support Packages:** Beginning in fall 2020, UCSC will offer new and continuing doctoral students support packages for five years (two?? years for MFA students). These packages will have a minimum level of support equivalent to that of a 50 percent teaching assistantship.
-- **$2500 Need-Based Housing Supplement:** Until more graduate student housing becomes available, a need-based, annual housing supplement for doctoral and MFA students offered through a partnership between the Financial Aid Office and the Graduate Division.  Most 
+- __5-year/50% Support Packages:__ Beginning in fall 2020, UCSC will offer new and continuing doctoral students support packages for five years (two?? years for MFA students). These packages will have a minimum level of support equivalent to that of a 50 percent teaching assistantship.
+- __$2500 Need-Based Housing Supplement:__ Until more graduate student housing becomes available, a need-based, annual housing supplement for doctoral and MFA students offered through a partnership between the Financial Aid Office and the Graduate Division.
 
 Together, these programs cost approximately $7 million per year are being paid for through a reduction in funding for other campus programs and resources.
 
-- **Temporary Housing Assistance Programs:** As both of those programs are slated to begin in fall, Chancellor Larive also introduced a bridge measure to support students who need help now. Offered through Slug Support, these programs help cover gaps in rent and other housing related costs as well as providing security deposit assistance.
+- __Temporary Housing Assistance Programs:__ As both of those programs are slated to begin in fall, Chancellor Larive also introduced a bridge measure to support students who need help now. Offered through Slug Support, these programs help cover gaps in rent and other housing related costs as well as providing security deposit assistance.
+
+## Mid-Term Solutions
+ 
+- __Chancellor’s Advisory Committee on Graduate Education:__ On February 19, Chancellor Larive announced the creation of a standing working group made up graduate students and faculty representatives charged with examining and making recommendations related to graduate student support.
+ 
+## Long-Term Solutions:
+
+While important, none of these programs or initiatives, address the underlying issue—a severe lack of graduate student housing on campus. 
+ 
+- __Student Housing West:__ Almost a full year ago in March of 2019, the UC Regents approved a [project called Student Housing West](https://news.ucsc.edu/2019/04/kresge-shw-approval.html) to create 3,072 new beds at two sites, one along Heller Drive, the other along Hagar Drive.  The project will provide significantly more housing for graduate and undergraduate students. The Hagar site will be home to a new childcare facility that will serve the children of faculty and staff in addition to students, as well as 140 units for Family Student Housing. Unfortunately, shortly after this approval, two lawsuits were filed against the project and it remains tied up in court to this day.
+

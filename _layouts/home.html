@@ -31,13 +31,14 @@ layout: default
               {% assign blocks = site.pages | sort: "order" %}
               {% for p in blocks %}
                 {% if p.menu %}
-                <li style="background-color: {{ p.color }}">
-                  <a href="{{ p.url }}">
+                <li>
+                  <a style="background-color: {{ p.front.bg }}; color: {{ p.front.color }};" href="{{ p.url }}">
+                  {% include svg/{{ p.front.icon }} %}
                   <div class="block profile-block" id="profile">
                     <h3 class="block-header">{{ p.title }}</h3>
-                    <!-- <div class="inner">
+                    <p class="inner">
                     {{ p.description }}
-                    </div> -->
+                    </p>
                   </div>
                   </a>
                 </li>
