@@ -6,6 +6,7 @@ description: |
 menu: "Living in Santa Cruz"
 order: 1
 color: "#13a5dc"
+related: true
 ---
 
 There’s no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California.  However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures.

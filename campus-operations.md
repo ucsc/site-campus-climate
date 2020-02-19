@@ -6,6 +6,7 @@ description: |
 menu: "Campus Operations"
 order: 4
 color: "#93c02d"
+related: true
 ---
 
 - Ongoing updates about the situation (just the facts)

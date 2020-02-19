@@ -32,9 +32,16 @@ layout: default
   {% if page.related %}
     <div class="sidebar" id="subNav" role="navigation">
 
-    <ul>
-    {% for link in page.related %}
-      <li><a href="{{ link.url }}">{{ link.title }}</a></li>
+    <ul class="navlist">
+    {% assign links = site.pages | sort: "order" %}
+    {% for l in links %}
+      {% if l.menu %}
+        {% if l.url == page.url %}
+          <li><a class="current" href="{{ l.url }}">{{ l.title }}</a></li>
+        {% else %}
+          <li><a href="{{ l.url }}">{{ l.title }}</a></li>
+        {% endif %}
+      {% endif %}
     {% endfor %}
     </ul>
 

@@ -8,5 +8,5 @@ description: |
 menu: "News &amp; Updates"
 order: 5
 color: "#f29813"
+related: true
 ---
-

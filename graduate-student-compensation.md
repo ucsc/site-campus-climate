@@ -7,6 +7,7 @@ description: |
 menu: "Compensation"
 order: 2
 color: "#FFC400"
+related: true
 ---
 
 - UC Negotiated Compensation

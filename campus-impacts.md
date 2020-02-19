@@ -6,6 +6,7 @@ description: |
 menu: "Campus Impacts"
 order: 3
 color: "#da216d"
+related: true
 ---
 
 - Undergraduates (Link to report concerns about class & schedule interruptions)
