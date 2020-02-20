@@ -9,7 +9,7 @@ related: true
 front:
   bg: "#da216d"
   color: "#fff"
-  icon: "construction-28.svg"
+  icon: "newtons-cradle.svg"
 ---
 
 ## Undergraduates
