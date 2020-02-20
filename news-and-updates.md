@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: page
 collection: announcements
 data: feed
 title: "News &amp; Updates"
