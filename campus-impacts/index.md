@@ -39,7 +39,7 @@ Our graduate students play an important role in the educational mission of UCSC,
  
 ### Background
 
-Grades were officially due December 18.  At every step along the way from that date until today, Chancellor Larive has made extremely clear that she cannot and will take action to open a negotiated systemwide contract to meet demands for a 60 percent increase in salary.
+Grades were officially due December 18.  At every step along the way from that date until today, Chancellor Larive has made extremely clear that she cannot and will not take action to open a negotiated systemwide contract to meet demands for a 60 percent increase in salary.
  
 However, she did commit in January to provide $7 million annually to launch, two new programs to provide our doctoral and MFA students with the greater financial security and a predictability that has been missing for many of them.  At the same time and in good faith, the deadline for submitting grades was extended to February 2nd.  At the time, students were informed that should they miss that deadline they would receive a letter of warning as part of the employment discipline process.
  
