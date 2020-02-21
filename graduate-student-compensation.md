@@ -5,8 +5,9 @@ title: "Graduate Student Compensation"
 description: |
   Our PhDs, MFAs, and Grad Students fund their education and receive support from a number of different resources. Learn more about how our graduate students are supported.
 menu: "Compensation"
-order: 2
-related: true
+order: 3
+sidebar: true
+left_col: true
 front:
   bg: "#FFC400"
   color: "#fff"

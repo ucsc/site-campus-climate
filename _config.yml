@@ -13,18 +13,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-collections_dir: collections
-collections:
-  announcements:
-    label: "announcements"
-    output: true
-  links:
-    label: "links"
-    output: false
-  posts:
-    label: "posts"
-    output: true
-
 defaults:
   - scope:
       path: ""

@@ -31,7 +31,6 @@ layout: default
               {% assign blocks = site.pages | sort: "order" %}
               {% for p in blocks %}
               {% if p.front %}
-                {% if p.menu %}
                 <li>
                   <a style="background-color: {{ p.front.bg }}; color: {{ p.front.color }};" href="{{ p.url | relative_url }}">
                   {% include svg/{{ p.front.icon }} %}
@@ -43,7 +42,6 @@ layout: default
                   </div>
                   </a>
                 </li>
-                {% endif %}
               {% endif %}
               {% endfor %}
             </ul>

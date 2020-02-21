@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% if page.related %}
+{% if page.sidebar %}
   {% assign page_id = "sprflt" %}
   {% assign page_class = "left-column" %}
 {% else %}
@@ -29,19 +29,25 @@ layout: default
 
   </div>
 
-  {% if page.related %}
+  {% if page.sidebar %}
     <div class="sidebar" id="subNav" role="navigation">
 
     <ul class="navlist">
-    {% assign links = site.pages | sort: "order" %}
-    {% for l in links %}
-      {% if l.menu %}
-        {% if l.url == page.url %}
-          <li><a class="current" href="{{ l.url | relative_url }}">{{ l.title }}</a></li>
+    {% assign menu_pages = site.pages | where: "left_col", true | sort: "order" %}
+    {% for item in menu_pages %}
+      <li>
+        {% if item.url == page.url %}
+            <a class="current" href="{{ item.url | relative_url }}">{{ item.title }}</a>
         {% else %}
-          <li><a href="{{ l.url | relative_url }}">{{ l.title }}</a></li>
+            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
         {% endif %}
-      {% endif %}
+        {% if item.dir == "/campus-impacts/" %}
+          <ul>
+            <li {%- if page.url == "/campus-impacts/undergraduate-academics/" %} class="current"{% endif %}><a href="/campus-impacts/undergraduate-academics/">FAQ: Undergraduate Academics</a></li>
+            <li {%- if page.url == "/campus-impacts/graduate-student-strikers/" %} class="current"{% endif %}><a href="/campus-impacts/graduate-student-strikers/">FAQ: Graduate Student Strikers</a></li>
+          </ul>
+        {% endif %}
+      </li>
     {% endfor %}
     </ul>
 

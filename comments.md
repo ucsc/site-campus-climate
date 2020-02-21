@@ -4,7 +4,8 @@ title: "Your comments"
 description: |
   Submit your thoughts and feedback.
 menu: "Comments"
-related: true
+sidebar: true
+left_col: true
 order: 6
 front: 
   bg: "#13a5dc"

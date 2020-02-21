@@ -7,7 +7,8 @@ description: |
   Stay up to date with the latest information on campus status.
 menu: "News &amp; Updates"
 order: 5
-related: true
+sidebar: true
+left_col: true
 front:
   bg: "#f29813"
   color: "#fff"
