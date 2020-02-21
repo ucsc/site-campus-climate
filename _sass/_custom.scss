@@ -316,3 +316,15 @@ a:focus-visible {
 .living-in-santa-cruz tr td:nth-child(1) {
   width: 22%;
 }
+
+details {
+  margin: .5em 0;
+  padding: .5em;
+  summary {
+    font-weight: 600;
+    margin: 0 0 1em 0;
+  }
+  &[open] {
+    background-color: #c7ff003d;
+  }
+}

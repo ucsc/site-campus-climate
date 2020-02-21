@@ -26,7 +26,7 @@ The Teaching Assistants (TAs) mentioned above, are covered by a union negotiated
 - A childcare subsidy of $3,300 per year (unique to TAs)
 - A one-time signing bonus, and
 - A complete remission of any health care premiums
- 
+
 ## New Programs
 
 At face value, this is a strong package, but there are aspects of it that make it difficult for our students.  Most importantly, Teaching Assistantships can lack financial security and predictability—to date, these Teaching Assistantships have not been guaranteed for the length of a typical program.  This, combined with the high cost of housing, can make it difficult for student to budget over their time here at UCSC.  

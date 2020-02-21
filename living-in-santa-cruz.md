@@ -22,20 +22,33 @@ The HUD housing estimate of __$2,042__ for a one-bedroom closely aligns with oth
 
 | | United States HUD Average Per Person Rent by # Bedrooms* |  United States Census 2018 Median Per Person Rent by # Bedrooms |
 | ------------- |:-------------:| -----:|
-| 1 bedroom |  $1,359 |  $1,359 |
-| 2 bedrooms |  $1,903 |  $952 |
-| 3 bedrooms |  $2,046 |  $682 |
-| 4 bedrooms |  $1,824 |  $456 |
+| 1 bedroom |  $2,042 |  $1,359 |
+| 2 bedrooms |  $1,351 |  $952 |
+| 3 bedrooms |  $1,196 |  $682 |
+| 4 bedrooms |  $1,025 |  $456 |
 
 <small>* U.S. Department of Housing and Urban Development (HUD) 2019 Small Area Fair Market Rent and calculated the average for zip codes within a 5-mile radius of each campus location</small>
 
 ## FAQ
 
-- Q. Why does the HUD number differ so much from the average that has been reported in news stories and social media?
-- A. It’s important to keep in mind that the Rent Café average rental price of $2611 reported in news and social media is NOT for a one bedroom.  Instead, it represents ALL rental units regardless of number of bedrooms (1, 5, or more). 
+<details>
+<summary>Q. Why does the HUD number differ so much from the average that has been reported in news stories and social media?</summary>
+A. It’s important to keep in mind that the Rent Café average rental price of $2611 reported in news and social media is NOT for a one bedroom.  Instead, it represents ALL rental units regardless of number of bedrooms (1, 5, or more). 
+</details>
 
-- Q. Would medians be a better tool then?
-- A.  In principle that is a better tool as it represents the 50% mark of units rented.  But as the Census Data demonstrates, that can be difficult as well. It’s important to keep catchment areas similar—the census catchment area in the chart above is much larger than the HUD one used by UCOP. When we compare like to like—the catchment area and the number of bedrooms—the numbers should be fairly similar. For example, a recent [Rentometer report](https://www.rentometer.com/analysis/1-bed/1156-high-st-santa-cruz-california-95064/SNmFE149pvc/overview) returned an average rent of $2044 in a three mile radius from the UCSC campus—just $1 off the HUD estimate and a median of $1998—just $45 lower than the HUD number. 
+<details>
+<summary>Q. Would medians be a better tool then?</summary>
+
+A. In principle that is a better tool as it represents the 50% mark of units rented.  But as the Census Data demonstrates, that can be difficult as well. It’s important to keep catchment areas similar—the census catchment area in the chart above is much larger than the HUD one used by UCOP. When we compare like to like—the catchment area and the number of bedrooms—the numbers should be fairly similar. For example, a recent [Rentometer report](https://www.rentometer.com/analysis/1-bed/1156-high-st-santa-cruz-california-95064/SNmFE149pvc/overview) returned an average rent of $2044 in a three mile radius from the UCSC campus—just $1 off the HUD estimate and a median of $1998—just $45 lower than the HUD number. 
+</details>
+
+<details>
+<summary>Q. What about the widely publicized request for $1412?</summary>
+
+Our team for the most part has been unable to replicate this number.  However, using information and methodology cited in early wildcat communications we believe that the difference between the average rental price of a 2 and 3 bedroom apartment in Santa Cruz relative to Riverside was calculated to be $1412/month based on Zillow rental data for the last 18 months.  
+
+<p>Unfortunately, we believe that a final step--dividing by 2.5 (the average number of people occupying the home) to arrive at a per person average of $565/month was missed.</p>
+</details>
 
 ## Near-Term Solutions
 
@@ -52,7 +65,11 @@ Together, these programs cost approximately $7 million per year are being paid f
 
 ## Mid-Term Solutions
  
-- __Chancellor’s Advisory Committee on Graduate Education:__ On February 19, Chancellor Larive announced the creation of a standing working group made up graduate students and faculty representatives charged with examining and making recommendations related to graduate student support.
+On February 19, Chancellor Larive announced the creation of two groups to help guide our campus as we chart a new course on graduate education and support: 
+
+- __Academic Senate Graduate Education Working Group:__ A working group reporting into the Graduate Council that will develop a comprehensive, realistic and actionable plan for strengthening graduate education.
+- __Chancellor’s Advisory Committee on Graduate Education:__ A standing group made up graduate students and faculty representatives charged with examining and making recommendations related to graduate student support.
+
  
 ## Long-Term Solutions:
 

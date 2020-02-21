@@ -14,6 +14,7 @@ front:
   icon: "megaphone-12.svg"
 ---
 
+- Feb 19, 2020—[In remarks to the Academic Senate](https://news.ucsc.edu/2020/02/chancellor-senate-remarks.html), Chancellor Cynthia Larive announced the campus will establish a working group that will develop a comprehensive, realistic and actionable plan for strengthening graduate education.
 - Feb. 14, 2020—"[Graduate student strike update](https://news.ucsc.edu/2020/02/cpevc-graduate-student-strike-update.html)," from Interim Campus Provost/Executive Vice Chancellor Lori Kletzer
 - Feb. 14, 2020—"[An open letter to faculty, staff, and students at UC Santa Cruz](https://news.ucsc.edu/2020/02/letter-president-unsanctioned-strike.html)," from UC President Janet Napolitano. 
 - Feb. 13, 2020—[Read a campus message](https://news.ucsc.edu/2020/02/protests-and-arrests.html) about Wednesday's unsanctioned strike activities. 
