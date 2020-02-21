@@ -223,11 +223,15 @@ a:focus-visible {
       min-height: 6em;
       text-align: left;
       color: #fff;
-      line-height: 1.2;
+      line-height: 1.28;
       height: 100%;
 
       .block-header {
         color: #fff;
+      }
+
+      .block {
+        width: 100%;
       }
 
       .inner {
@@ -240,14 +244,33 @@ a:focus-visible {
         margin: 1em;
         fill: cornsilk;
         width: auto;
-        height: 60px;
+        height: 68px;
         display: inline-block;
+      }
+    }
+
+    a:focus,
+    a:hover,
+    a:active {
+      text-decoration: none;
+      color: #00458c !important;
+      background-color: #efefef !important;
+      transition: all .35s;
+
+      h3 {
+        color: #00458c !important;
+      }
+
+      svg {
+        fill: #00458c;
       }
     }
 
     h3 {
       margin: 0;
       font-size: 1.2em;
+      text-align: center;
+      width: 100%;
     }
   }
 }

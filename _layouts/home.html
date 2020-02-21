@@ -30,6 +30,7 @@ layout: default
            <ul class="grid-container">
               {% assign blocks = site.pages | sort: "order" %}
               {% for p in blocks %}
+              {% if p.front %}
                 {% if p.menu %}
                 <li>
                   <a style="background-color: {{ p.front.bg }}; color: {{ p.front.color }};" href="{{ p.url }}">
@@ -43,6 +44,7 @@ layout: default
                   </a>
                 </li>
                 {% endif %}
+              {% endif %}
               {% endfor %}
             </ul>
           </div>
