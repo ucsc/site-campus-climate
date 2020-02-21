@@ -80,5 +80,3 @@ In response to the unsanctioned strike, staff members have:
 UC Santa Cruz has 10,000 people living on campus which includes students,  families with children, and people with medical conditions. The campus has a responsibility to make sure that its community members and emergency vehicles can enter and exit the campus safely. The campus heard from many people who were blocked from entering campus because of the picketing. 
 
 UC Santa Cruz police officers and those who come in to provide aid are well-trained and work to de-escalate situations whenever possible. UC Santa Cruz is committed to the safety of everyone in our community including the students who are currently choosing to disrupt access to the campus. The police presence is not meant to be threatening or to cause distress, but to ensure safety for everyone. 
-
-Thank you for sharing your concern with me. I appreciate that you can come to me with these issues and I hope as a campus we can move toward less disruption and more collaboration.

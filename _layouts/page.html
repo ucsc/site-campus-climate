@@ -16,7 +16,7 @@ layout: default
 
     {% if page.banner %}
     <div class="banners bannerBox" id="bannerBox">
-      <img alt="{{ page.banner.text }}" id="banner" src="{{ page.banner.url }}">
+      <img alt="{{ page.banner.text }}" id="banner" src="{{ page.banner.url | relative_url }}">
       {% if page.image.description %}
       <p class="caption">{{ page.banner.description }}</p>
       {% endif %}
@@ -37,9 +37,9 @@ layout: default
     {% for l in links %}
       {% if l.menu %}
         {% if l.url == page.url %}
-          <li><a class="current" href="{{ l.url }}">{{ l.title }}</a></li>
+          <li><a class="current" href="{{ l.url | relative_url }}">{{ l.title }}</a></li>
         {% else %}
-          <li><a href="{{ l.url }}">{{ l.title }}</a></li>
+          <li><a href="{{ l.url | relative_url }}">{{ l.title }}</a></li>
         {% endif %}
       {% endif %}
     {% endfor %}

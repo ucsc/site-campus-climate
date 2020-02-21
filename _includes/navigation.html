@@ -3,9 +3,9 @@
   {% for item in sorted_pages %}
     {% if item.order %}
       {% if page.url == item.url %}
-        <li><a href="{{ item.url }}" class="current">{{ item.menu | default: item.title }}</a></li>
+        <li><a href="{{ item.url | relative_url }}" class="current">{{ item.menu | default: item.title }}</a></li>
       {% else %}
-        <li><a href="{{ item.url }}">{{ item.menu | default: item.title }}</a></li>
+        <li><a href="{{ item.url | relative_url }}">{{ item.menu | default: item.title }}</a></li>
       {% endif %}
     {% endif %}
   {% endfor %}
