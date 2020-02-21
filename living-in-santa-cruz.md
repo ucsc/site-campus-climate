@@ -20,7 +20,7 @@ First and foremost, it's important to understand that all information about cost
  
 The HUD housing estimate of __$2,042__ for a one-bedroom closely aligns with other publicly available information. It also demonstrates how shared housing can have a significant impact in reducing rent burden.
 
-| | [United States HUD Average Per Person Rent by # Bedrooms*](https://www.ucop.edu/student-affairs/_files/housing-costs-near-campuses.pdf) |  [United States Census 2018 Median Per Person Rent by # Bedrooms](https://www.census.gov/programs-surveys/acs/about.html) |
+| | [United States HUD Average Per Person Rent by # Bedrooms*](https://www.ucop.edu/student-affairs/_files/housing-costs-near-campuses.pdf) |  [United States Census 2018 Median Per Person Rent by # Bedrooms](https://data.census.gov/cedsci/table?q=median%20rent%20santa%20cruz,%20california&hidePreview=false&tid=ACSDT1Y2018.B25031&vintage=2018&layer=county&cid=DP04_0001E&g=0500000US06065&y=2018) |
 | ------------- |:-------------:| -----:|
 | 1 bedroom |  $2,042 |  $1,359 |
 | 2 bedrooms |  $1,351 |  $952 |
