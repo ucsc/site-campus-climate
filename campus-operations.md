@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Campus Operations"
+title: "Campus Advisory"
 description: |
   Stay up to date with the latest information on road closings.
-menu: "Campus Operations"
+menu: "Campus Advisory"
 order: 4
 related: true
 front:
