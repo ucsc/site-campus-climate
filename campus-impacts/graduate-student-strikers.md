@@ -42,7 +42,6 @@ When a group of employees represented by a union defies that union and stages an
 <p>No. The letters they received are a result of not submitting grades by the Feb 2 deadline.  The dismissal is based on the refusal to submit grades from February 2.</p>
 </details>
 
-<!-- <details>
+<details>
 <summary>If a graduate student is subject to a conduct process related to these activities, will that be taken into consideration if they apply for future positions?</summary>
-<p>UCSC considers academic standing, employment record and student conduct when when evaluating.</p> </details>
- -->
+<p>UCSC considers academic standing, employment record and student conduct when when evaluating Academic standing, student conduct, and employment performance.</p> </details>
