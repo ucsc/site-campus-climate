@@ -38,7 +38,7 @@ sidebar: true
 
 <p>While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. Department chairs are responsible for the delivery of instruction.</p>
 
-<p>The campus sent undergraduates [a form they can use](https://docs.google.com/forms/d/e/1FAIpQLSfp3sz6yAzWFuvZBdUNUlYyS8x8IwSkckOGePB5v6IMmHlTBw/viewform) if their class is disrupted by the strike.</p>
+<p>The campus sent undergraduates <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp3sz6yAzWFuvZBdUNUlYyS8x8IwSkckOGePB5v6IMmHlTBw/viewform">a form they can use</a> if their class is disrupted by the strike.</p>
 </details>
 
 <details>
