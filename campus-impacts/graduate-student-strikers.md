@@ -44,4 +44,4 @@ When a group of employees represented by a union defies that union and stages an
 
 <details>
 <summary>If a graduate student is subject to a conduct process related to these activities, will that be taken into consideration if they apply for future positions?</summary>
-<p>UCSC considers academic standing, employment record and student conduct when when evaluating Academic standing, student conduct, and employment performance.</p> </details>
+<p>UCSC considers academic standing, employment record and student conduct when evaluating employment performance.</p> </details>
