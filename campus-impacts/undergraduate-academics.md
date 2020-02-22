@@ -42,11 +42,6 @@ sidebar: true
 </details>
 
 <details>
-<summary>Will students be refunded for time missed on campus and classes due to the strike?</summary> 
-<p>Currently, this is not an option under consideration. While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided by faculty to ensure course learning outcomes are achieved.</p>
-</details> 
-
-<details>
 <summary>Will students have to make up missed class time?</summary>
 <p>Alternate forms of instruction and class time may have been provided by the faculty. Outside of unforeseen changes to class schedules, course syllabi are provided to students as a means of understanding how course learning outcomes required and how they are achieved. As an example, faculty may determine that class attendance and participation may not be required to achieve academic expectations and learning outcomes. There are also a number of ways to complete rigorous academic expectations outside of a typical lecture environment, not all are in-class or in-section participation.</p> 
  </details> 
