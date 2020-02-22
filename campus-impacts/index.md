@@ -41,9 +41,7 @@ Our graduate students play an important role in the educational mission of UCSC,
  
 ### Background
 
-Grades were officially due December 18.  At every step along the way from that date until today, Chancellor Larive has made extremely clear that she cannot and will not take action to open a negotiated systemwide contract to meet demands for a 60 percent increase in salary.
- 
-However, she did commit in January to provide $7 million annually to launch, two new programs to provide our doctoral and MFA students with the greater financial security and a predictability that has been missing for many of them.  At the same time and in good faith, the deadline for submitting grades was extended to February 2nd.  At the time, students were informed that should they miss that deadline they would receive a letter of warning as part of the employment discipline process.
+Grades were officially due December 18.  At every step along the way from that date until today, Chancellor Larive has made extremely clear that she cannot and will not take action to open a negotiated systemwide contract to meet demands for a 60 percent increase in salary. However, she did commit in January to provide $7 million annually to launch, two new programs to provide our doctoral and MFA students with the greater financial security and a predictability that has been missing for many of them. At the same time and in good faith, the deadline for submitting grades was extended to February 2nd. At the time, students were informed that should they miss that deadline they would receive a letter of warning as part of the employment discipline process.
  
 Needless to say, it was extremely disappointing when the striking students responded not by ending their grade strike but by escalating it to full teaching strike. This is a situation that is no longer tenable.
 
@@ -56,12 +54,11 @@ All students who have continued to withhold fall grades following the receipt of
 - to end the strike, and 
 - to fulfill their contractual obligations including resuming teaching and submitting winter grades
 
-Those who choose not to comply will not receive spring quarter appointments or will be dismissed from their spring quarter appointments.
-This is not a step we have taken lightly. Contingency plans will be developed to mitigate the issues this will create once we understand who has returned to work and who has not. I understand that this is going to result in challenges but believe at this point, it is our best option.
+Those who choose not to comply will not receive spring quarter appointments or will be dismissed from their spring quarter appointments. This is not a step we have taken lightly. Contingency plans will be developed to mitigate the issues this will create once we understand who has returned to work and who has not. We understand that this is going to result in challenges but believe at this point, it is our best option.
 
 ### Grade Deletion
 
-A number of students in addition to withholding grades have also appear to have deleted previously entered grades from the system. Due to the seriousness of this action, students alleged to have deleted grades have received student conduct summonses.
+A number of students in addition to withholding grades have also appeared to have deleted previously entered grades from the system. Due to the seriousness of this action, students alleged to have deleted grades have received student conduct summonses.
 
 
 ## Staff
@@ -72,8 +69,8 @@ In response to the unsanctioned strike, staff members have:
 
 - Waived some late fees and provided some emergency loans to students in specific financial aid situations.
 - Launched a labor-intensive process for the partial posting of grade rosters.
-- Worked on class prerequisite issues to ensure students could enroll in the most appropriate class, and worked with the Senate to develop new procedures for prerequisite assessment where needed.    
-- Provided temporary waivers from satisfactory progress to some student athletes for whom missing grades indicated a lack of credits in official records.
+- Worked on class prerequisite issues to ensure students could enroll in the most appropriate class, and worked with the Senate to develop new procedures for prerequisite assessment where needed.   
+- Provided temporary waivers from satisfactory progress for some student athletes for whom missing grades indicated a lack of credits in official records.
 - Modified the approach to students on academic probation. 
 - Reached out to many instructors individually for grades desperately needed by students for financial aid, prerequisite, graduation, major declaration, graduate school applications, internship applications, scholarships. 
 

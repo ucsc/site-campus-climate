@@ -15,7 +15,7 @@ sidebar: true
 </details>
 
 <details>
-<summary>Has anything been communicated to instructors/TA about how we hope that they communicate with their students?</summary>
+<summary>Has anything been communicated to instructors/TAs about how we hope that they communicate with their students?</summary>
 <p>The campus regularly encourages instructors to be in communication with students when there is the possibility for disruptions on campus, whether from power outages, protests, or other events. In addition to campus email, UC Santa Cruz has a learning management system that enables instructors and TAs to communicate with classes and sections.</p>
 </details>
 
@@ -26,7 +26,7 @@ sidebar: true
 
 <details>
 <summary>How do I get my P grade changed?</summary> 
-<p>Students who would like to have a P grade changed should reach out to the course instructor to see when the instructor expects to have sufficient information to assign a letter grade. Use of the P grade was made available to mitigate impacts, with a focus on students’ financial aid, enrollment status, graduation, major declaration and other academic decisions.</p>
+<p>Students who would like to have a P grade changed should reach out to the course instructor to see when the instructor expects to have sufficient information to assign a letter grade. Use of the P grade was made available to mitigate impacts of the grading strike, with a focus on students’ financial aid, enrollment status, graduation, major declaration and other academic decisions.</p>
 </details>
 
 <details>
@@ -34,16 +34,16 @@ sidebar: true
 
 <p>The University of California and UC Santa Cruz do not charge tuition by the class but by the quarter (or semester) of attendance. UC is not able to provide tuition refunds on the basis of individual course grades or canceled class sections.</p> 
 
-<p>Tuition refunds for the quarter are available under a system-wide refund policy and schedule for students who withdraw from the university a term after the term has begun.</p>
+<p>Tuition refunds for the quarter are available under a system-wide refund policy and are only available for students who have withdrawn from the university after the term has begun.</p>
 
-<p>While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. Department chairs are responsible for the delivery of instruction.</p>
+<p>While the protests are happening on campus, instruction continues, and alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. Department chairs are responsible for the delivery of instruction.</p>
 
 <p>The campus sent undergraduates <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp3sz6yAzWFuvZBdUNUlYyS8x8IwSkckOGePB5v6IMmHlTBw/viewform">a form they can use</a> if their class is disrupted by the strike.</p>
 </details>
 
 <details>
 <summary>Will students have to make up missed class time?</summary>
-<p>Alternate forms of instruction and class time may have been provided by the faculty. Outside of unforeseen changes to class schedules, course syllabi are provided to students as a means of understanding how course learning outcomes required and how they are achieved. As an example, faculty may determine that class attendance and participation may not be required to achieve academic expectations and learning outcomes. There are also a number of ways to complete rigorous academic expectations outside of a typical lecture environment, not all are in-class or in-section participation.</p> 
+<p>Alternate forms of instruction and class time may have been provided by the faculty. Outside of unforeseen changes to class schedules, course syllabi are provided to students as a means of understanding required course learning outcomes and how they are achieved. As an example, faculty may determine that class attendance and participation may not be required to achieve academic expectations and learning outcomes. There are also a number of ways to complete rigorous academic expectations outside of a typical lecture environment, not all are in-class or in-section participation.</p> 
  </details> 
 
 <details>

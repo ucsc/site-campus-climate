@@ -9,7 +9,7 @@ sidebar: true
 
 <details>
 <summary>What is a "wildcat" strike?</summary>
-<p>UC Santa Cruz graduate students employed as academic student employees are currently represented by the United Autoworkers and under a contract that was ratified in 2018. The University of California’s collective bargaining agreement governs the terms and conditions of employment for readers, tutors, teaching assistants, and graduate student instructors. This contract, including its rights and obligations, applies if a graduate student has an active appointment in one of these positions.</p>
+<p>UC Santa Cruz graduate students employed as academic student employees are currently represented by the United Auto Workers (UAW) and under a contract that was ratified in 2018. The University of California’s collective bargaining agreement governs the terms and conditions of employment for readers, tutors, teaching assistants, and graduate student instructors. This contract, including its rights and obligations, applies if a graduate student has an active appointment in one of these positions.</p>
 
 <p>Under the terms of that agreement, academic student employees cannot engage in any strikes, work stoppages, interruptions of work, or any activity that directly or indirectly interferes with university operations while a contract is in place. Withholding grades is direct interference with the university’s operations and a violation of the collective bargaining agreement.
 When a group of employees represented by a union defies that union and stages an unauthorized strike, it is known as a "wildcat strike."</p>
@@ -39,7 +39,7 @@ When a group of employees represented by a union defies that union and stages an
 
 <details>
 <summary>If a graduate student turns in grades will the warning letter be removed from their records?</summary> 
-<p>No. The letters they received are a result of not submitting grades by the Feb 2 deadline.  The dismissal is based on the refusal to submit grades from February 2.</p>
+<p>No. The letters they received are a result of not submitting grades by the February 2 deadline. The dismissal is based on the continued refusal to submit grades from February 2 on.</p>
 </details>
 
 <details>

@@ -16,7 +16,7 @@ front:
 
 For those who may be unfamiliar, graduate degrees fall generally into two types—a Master’s or Professional degree and Doctorate or “Terminal” degree. Most non-doctoral degrees are not terminal in academic terms, with the exception of the Master of Fine Arts (MFA). The MFA is an academically recognized terminal degree and is given to practitioners in the fine arts and performing arts.
  
-While Master’s and Professional degrees tend to be self-funding, terminal degree candidates at Santa Cruz are often funded through some combination of Teaching Assistantship and Graduate Student Researchship. These academic apprentice position provide the largest source of UCSC student support and constitute an important aspect of graduate training under the guidance of the UCSC faculty.
+While Master’s and Professional degrees tend to be self-funding, terminal degree candidates at Santa Cruz are often funded through some combination of Teaching Assistantship and Graduate Student Researchship. These academic apprentice positions provide the largest source of UCSC student support and constitute an important aspect of graduate training under the guidance of the UCSC faculty.
  
 ## Teaching Assistant Contracts
 
