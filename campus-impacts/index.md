@@ -11,7 +11,7 @@ front:
   bg: "#da216d"
   color: "#fff"
   icon: "newtons-cradle.svg"
-sub: "impacts"
+category: impacts
 ---
 
 ## Undergraduates

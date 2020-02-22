@@ -33,22 +33,30 @@ layout: default
     <div class="sidebar" id="subNav" role="navigation">
 
     <ul class="navlist">
-    {% assign menu_pages = site.pages | where: "left_col", true | sort: "order" %}
-    {% for item in menu_pages %}
-      <li>
-        {% if item.url == page.url %}
+      {% assign current_page_id = page.url %}
+      {% assign menu_pages = site.pages | where: "left_col", true | sort: "order" %}
+      {% for item in menu_pages %}
+        <li>
+
+          {% if item.url == page.url %}
             <a class="current" href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% else %}
+          {% else %}
             <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        {% endif %}
-        {% if item.dir == "/campus-impacts/" %}
+          {% endif %}
+
+          {% if page.category and page.category == item.category %}
           <ul>
-            <li {%- if page.url == "/campus-impacts/undergraduate-academics/" %} class="current"{% endif %}><a href="/campus-impacts/undergraduate-academics/">FAQ: Undergraduate Academics</a></li>
-            <li {%- if page.url == "/campus-impacts/graduate-student-strikers/" %} class="current"{% endif %}><a href="/campus-impacts/graduate-student-strikers/">FAQ: Graduate Student Strikers</a></li>
+            {% assign sub_pages = site.pages | where: "category", page.category %}
+            {% for sub_item in sub_pages %}
+              {% if sub_item.name != 'index.md' %}
+                <li><a {% if sub_item.url == page.url %}class="current"{% endif %} href="{{ sub_item.url }}">{{ sub_item.title }}</a></li>
+              {% endif %}
+            {% endfor %}
           </ul>
-        {% endif %}
-      </li>
-    {% endfor %}
+          {% endif %}
+
+        </li>
+      {% endfor %}
     </ul>
 
     </div>

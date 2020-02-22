@@ -3,7 +3,7 @@ layout: page
 title: "FAQ: Graduate Student Strikers"
 description: |
   The current teaching strike, while not widespread, has had a profound and negative impact on the mission of our school.  Learn more about how the teaching strike is affecting our undergraduate students, our staff, and the safety of our campus.
-tags: "impacts"
+category: impacts
 sidebar: true
 ---
 
