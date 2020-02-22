@@ -6,7 +6,7 @@ description: |
 menu: "Comments"
 sidebar: true
 left_col: true
-order: 6
+order: 7
 front: 
   bg: "#13a5dc"
   color: "#fff"
