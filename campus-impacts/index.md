@@ -33,7 +33,7 @@ Students with missing grades may not be able to declare a major by the February 
 ### Timely Transcript Receipt
 Without grades, the Office of the Registrar will be unable to provide a complete transcript which may impact applications to transfer, graduate school, external programs or external scholarships.
 
-Students who want any missing grades should reach out to their course instructor. Students who wish to notify the campus about a class or section disruption are able to do so with [an online form](https://docs.google.com/forms/d/e/1FAIpQLSfp3sz6yAzWFuvZBdUNUlYyS8x8IwSkckOGePB5v6IMmHlTBw/viewform). The form can be used multiple times.
+Students who want any missing grades should reach out to their course instructor.
 
 ## Graduate Student Wildcat Strikers
 
