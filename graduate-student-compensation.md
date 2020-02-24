@@ -30,12 +30,12 @@ The Teaching Assistants (TAs) mentioned above, are covered by a union negotiated
 
 ## New Programs
 
-At face value, this is a strong package, but there are aspects of it that make it difficult for our students.  Most importantly, Teaching Assistantships can lack financial security and predictability—to date, these Teaching Assistantships have not been guaranteed for the length of a typical program.  This, combined with the high cost of housing, can make it difficult for student to budget over their time here at UCSC.  
+At face value, this is a strong package, but there are aspects of it that make it difficult for our students. Most importantly, Teaching Assistantships can lack financial security and predictability—to date, these Teaching Assistantships have not been guaranteed for the length of a typical program. This, combined with the high cost of housing, can make it difficult for student to budget over their time here at UCSC. 
  
 Recognizing this challenge, Chancellor Larive in January announced two new programs to provide doctoral and MFA students with greater financial security and predictability:
  
 - __5-year/50% Support Packages:__ Beginning in fall 2020, UCSC will offer new and continuing doctoral students support packages for five years (2 years for MFA students). These packages will have a minimum level of support equivalent to that of a 50 percent teaching assistantship.
-- __$2500 Need-Based Housing Supplement:__ Until more graduate student housing becomes available, a need-based, annual housing supplement for doctoral and MFA students offered through a partnership between the Financial Aid Office and the Graduate Division.  
+- __$2500 Housing Supplement:__ Until more graduate student housing becomes available, an annual housing supplement for doctoral and MFA students offered through the Graduate Division. 
  
 Together, these programs cost approximately $7 million per year.
  
