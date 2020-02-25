@@ -44,7 +44,7 @@ In recognition of the immediateness of this need, eligible graduate students who
 
 Beginning in fall 2020, we will offer new and continuing doctoral students support packages for five years (two years for MFA students). These packages will have a minimum level of support equivalent to that of a standard 50 percent teaching assistantship. 
 
-For Fall 2019, only 45% of incoming graduate students had multi-year offers. Five years of guaranteed funding provides graduate students with increased predictability and a guaranteed amount of funding. 
+For Fall 2019, only 45% of incoming graduate students had five-year offers. Five years of guaranteed funding provides graduate students with increased predictability and a guaranteed amount of funding. 
 
 ### Rescission of Employee Discipline
 
