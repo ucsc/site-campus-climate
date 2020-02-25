@@ -1,18 +1,12 @@
 ---
 layout: page
-title: "Living in Santa Cruz"
-description: |
-  There's no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California.  However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures. Learn more about living in Santa Cruz.
-menu: "Living in Santa Cruz"
 order: 2
+menu: Living in Santa Cruz
 sidebar: true
 left_col: true
-front:
-  bg: "#13a5dc"
-  color: "#fff"
-  icon: "home-7.svg"
+title: Living in Santa Cruz
+Description: Rhis is the mat
 ---
-
 There's no doubt about it, living in Santa Cruz is more expensive than other parts of the country and even other parts of California. However, some of the information that has been shared in news stories and social media misrepresents the actual facts and figures.
  
 ## Rental Costs--What's Behind the Numbers Being Reported?
