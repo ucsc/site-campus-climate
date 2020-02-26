@@ -32,7 +32,7 @@ sidebar: true
 <details>
 <summary>Will students be refunded for time missed on campus and classes due to the strike?</summary> 
 
-<p>Currently, this is not an option under consideration. While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. This website includes a [contact form](https://www.ucsc.edu/campus-climate/comments/) that undergraduates can use if their class is disrupted by the strike. The police are ensuring roadways are clear for people traveling to campus and also for the community members who live in the surrounding area and need to pass by our campus.</p>
+<p>Currently, this is not an option under consideration. While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. This website includes a <a href="https://www.ucsc.edu/campus-climate/comments/">contact form</a> that undergraduates can use if their class is disrupted by the strike. The police are ensuring roadways are clear for people traveling to campus and also for the community members who live in the surrounding area and need to pass by our campus.</p>
 
 
 </details>
