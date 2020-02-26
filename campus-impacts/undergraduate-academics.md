@@ -32,13 +32,9 @@ sidebar: true
 <details>
 <summary>Will students be refunded for time missed on campus and classes due to the strike?</summary> 
 
-<p>The University of California and UC Santa Cruz do not charge tuition by the class but by the quarter (or semester) of attendance. UC is not able to provide tuition refunds on the basis of individual course grades or canceled class sections.</p> 
+<p>Currently, this is not an option under consideration. While the protests are happening on campus, instruction continues. For those who may be honoring the graduate student strike, alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. This website includes a [contact form](https://www.ucsc.edu/campus-climate/comments/) that undergraduates can use if their class is disrupted by the strike. The police are ensuring roadways are clear for people traveling to campus and also for the community members who live in the surrounding area and need to pass by our campus.</p>
 
-<p>Tuition refunds for the quarter are available under a system-wide refund policy and are only available for students who have withdrawn from the university after the term has begun.</p>
 
-<p>While the protests are happening on campus, instruction continues, and alternate forms of instruction and class time should be provided to ensure course learning outcomes are achieved. Department chairs are responsible for the delivery of instruction.</p>
-
-<p>The campus sent undergraduates <a href="https://docs.google.com/forms/d/e/1FAIpQLSfp3sz6yAzWFuvZBdUNUlYyS8x8IwSkckOGePB5v6IMmHlTBw/viewform">a form they can use</a> if their class is disrupted by the strike.</p>
 </details>
 
 <details>
