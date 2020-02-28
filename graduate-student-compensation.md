@@ -1,17 +1,23 @@
 ---
-layout: page
-date: 2020-02-17 03:00:00
-title: "Graduate Student Compensation"
-description: |
-  Our PhDs, MFAs, and Grad Students fund their education and receive support from a number of different resources. Learn more about how our graduate students are supported.
-menu: "Compensation"
-order: 3
-sidebar: true
 left_col: true
 front:
-  bg: "#FFC400"
-  color: "#fff"
-  icon: "currency-1.svg"
+  bg: '#FFC400'
+  color: '#fff'
+  icon: currency-1.svg
+layout: page
+order: 3
+date: 2020-02-17T03:00:00.000Z
+menu: Compensation
+sidebar: true
+title: Graduate Student Compensation
+Description: >-
+  Our PhDs, MFAs, and Grad Students fund their education and receive support
+  from a number of different resources. Learn more about how our graduate
+  students are supported
+description: >
+  Our PhDs, MFAs, and Grad Students fund their education and receive support
+  from a number of different resources. Learn more about how our graduate
+  students are supported.
 ---
 
 The most important thing to remember when thinking about this strike, is that the participants, before all else are students pursuing an advanced degree--degrees that are required for many positions both within and outside academia. 
