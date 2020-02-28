@@ -15,6 +15,7 @@ front:
   icon: "megaphone-12.svg"
 ---
 
+- Feb 28, 2020–[An update from Interim Campus Provost/Executive Vice Chancellor Lori Kletzer](https://news.ucsc.edu/2020/02/news-article.html) on the grade strike
 - Feb 24, 2020—In an [email to graduate students and faculty](https://news.ucsc.edu/2020/02/cpevc-clarification-grad-programs.html), Interim Campus Provost/Executive Vice Chancellor Lori Kletzer clarified the new programs for graduate students and described new details that resulted from conversations with graduate students, department chairs, and faculty.
 - Feb 19, 2020—[In remarks to the Academic Senate](https://news.ucsc.edu/2020/02/chancellor-senate-remarks.html), Chancellor Cynthia Larive announced the campus will establish a working group that will develop a comprehensive, realistic and actionable plan for strengthening graduate education.
 - Feb. 14, 2020—"[Graduate student strike update](https://news.ucsc.edu/2020/02/cpevc-graduate-student-strike-update.html)," from Interim Campus Provost/Executive Vice Chancellor Lori Kletzer
