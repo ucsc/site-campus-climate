@@ -9,7 +9,6 @@ order: 2
 menu: Living in Santa Cruz
 sidebar: true
 title: Living in Santa Cruz
-Description: Something.
 description: >
   There's no doubt about it, living in Santa Cruz is more expensive than other
   parts of the country and even other parts of California.  However, some of the

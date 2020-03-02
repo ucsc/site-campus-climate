@@ -1,39 +1,36 @@
 backend:
   name: github
-  repo: knice/leadership
+  repo: knice/site-campus-climate
   branch: master
 publish_mode: editorial_workflow
 media_folder: "assets/images" # Media files will be stored in the repo under images/uploads
 collections:
-  - label: "Announcements"
-    name: "announcements"
-    folder: "collections/_announcements"
-    create: true
-    fields:
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Body", name  : "body", widget: "markdown"}
   - name: 'pages'
     label: 'Pages'
     editor:
       preview: false
     files:
-      - label: 'Organization'
-        name: 'organization'
-        file: 'organization.md'
+      - label: 'Graduate Student Compensation'
+        name: 'graduate-student-compensation'
+        file: 'graduate-student-compensation.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
           - { label: 'Menu Order', name: 'order', widget: 'number', default: '2' }
           - { label: 'Menu Text', name: 'menu', widget: 'string' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
           - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'string' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
-      - label: 'Committees'
-        name: 'committees'
-        file: 'committees.md'
+      - label: 'Living in Santa Cruz'
+        name: 'living-in-santa-cruz'
+        file: 'living-in-santa-cruz.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
-          - { label: 'Menu Order', name: 'order', widget: 'number', default: '3' }
+          - { label: 'Menu Order', name: 'order', widget: 'number', default: '2' }
           - { label: 'Menu Text', name: 'menu', widget: 'string' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
           - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }

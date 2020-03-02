@@ -6,14 +6,9 @@ front:
   icon: currency-1.svg
 layout: page
 order: 3
-date: 2020-02-17T03:00:00.000Z
 menu: Compensation
 sidebar: true
 title: Graduate Student Compensation
-Description: >-
-  Our PhDs, MFAs, and Grad Students fund their education and receive support
-  from a number of different resources. Learn more about how our graduate
-  students are supported
 description: >
   Our PhDs, MFAs, and Grad Students fund their education and receive support
   from a number of different resources. Learn more about how our graduate
