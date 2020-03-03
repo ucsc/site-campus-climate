@@ -15,7 +15,7 @@ collections:
         file: 'graduate-student-compensation.md'
         fields:
           - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
-          - { label: 'Menu Order', name: 'order', widget: 'number', default: '2' }
+          - { label: 'Menu Order', name: 'order', widget: 'number', default: '3' }
           - { label: 'Menu Text', name: 'menu', widget: 'string' }
           - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
           - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
@@ -32,5 +32,62 @@ collections:
           - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
           - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
           - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'News and Updates'
+        name: 'news-and-updates'
+        file: 'news-and-updates.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Menu Order', name: 'order', widget: 'number', default: '6' }
+          - { label: 'Menu Text', name: 'menu', widget: 'string' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
+          - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Campus Climate Home'
+        name: 'index'
+        file: 'index.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'home' }
+          - { label: 'Menu Order', name: 'order', widget: 'number', default: '1' }
+          - { label: 'Menu Text', name: 'menu', widget: 'string' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
+          - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'Campus Impacts'
+        name: 'campus-impacts'
+        file: 'campus-impacts/index.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Menu Order', name: 'order', widget: 'number', default: '4' }
+          - { label: 'Menu Text', name: 'menu', widget: 'string' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Left Column', name: 'left_col', widget: 'boolean', default: true }
+          - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Category', name: 'category', widget: 'string', default: 'impacts' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'FAQ: Graduate Student Strikers'
+        name: 'graduate-student-strikers'
+        file: 'campus-impacts/graduate-student-strikers.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Category', name: 'category', widget: 'string', default: 'impacts' }
+          - { label: 'Meta Description', name: 'description', widget: 'text' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+      - label: 'FAQ: Undergraduate Academics'
+        name: 'undergraduate-academics'
+        file: 'campus-impacts/undergraduate-academics.md'
+        fields:
+          - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
+          - { label: 'Sidebar', name: 'sidebar', widget: 'boolean', default: true }
+          - { label: 'Page Title', name: 'title', widget: 'string' }
+          - { label: 'Category', name: 'category', widget: 'string', default: 'impacts' }
           - { label: 'Meta Description', name: 'description', widget: 'text' }
           - { label: 'Body', name: 'body', widget: 'markdown' }
