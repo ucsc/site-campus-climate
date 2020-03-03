@@ -1,7 +1,8 @@
 ---
 layout: page
 title: "Campus Impacts"
-description: "The current teaching strike, while not widespread, has had a profound and negative impact on the mission of our school.  Learn more about how the teaching strike is affecting our undergraduate students, our staff, and the safety of our campus."
+description: >
+  The current teaching strike, while not widespread, has had a profound and negative impact on the mission of our school.  Learn more about how the teaching strike is affecting our undergraduate students, our staff, and the safety of our campus.
 menu: "Campus Impacts"
 order: 4
 sidebar: true

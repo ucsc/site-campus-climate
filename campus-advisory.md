@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Campus Advisory"
-description: |
+description: >
   Stay up to date with the latest information on road closings.
 menu: "Campus Advisory"
 order: 5

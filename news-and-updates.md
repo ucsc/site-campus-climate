@@ -3,7 +3,8 @@ layout: page
 collection: announcements
 data: feed
 title: "News &amp; Updates"
-description: "Stay up to date with the latest information on campus status."
+description: >
+  Stay up to date with the latest information on campus status.
 menu: "News &amp; Updates"
 order: 6
 sidebar: true

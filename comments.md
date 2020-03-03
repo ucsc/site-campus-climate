@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Your comments"
-description: |
+description: >
   Submit your thoughts and feedback.
 menu: "Comments"
 sidebar: true

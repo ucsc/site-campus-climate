@@ -10,9 +10,7 @@ menu: Compensation
 sidebar: true
 title: Graduate Student Compensation
 description: >
-  Our PhDs, MFAs, and Grad Students fund their education and receive support
-  from a number of different resources. Learn more about how our graduate
-  students are supported.
+  Our PhDs, MFAs, and Grad Students fund their education and receive support from a number of different resources. Learn more about how our graduate students are supported.
 ---
 
 The most important thing to remember when thinking about this strike, is that the participants, before all else are students pursuing an advanced degree--degrees that are required for many positions both within and outside academia. 
