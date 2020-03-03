@@ -18,7 +18,7 @@
 <script defer="true" src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 <link rel="stylesheet" href="https://unpkg.com/tachyons@4.10.0/css/tachyons.min.css"/>
 
-{%- {% if page.url = '/' %}
+{%- if page.url == '/' %}
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 <script>
   if (window.netlifyIdentity) {
@@ -32,7 +32,7 @@
   }
 </script>
 
-{%- endif %} %}
+{%- endif %}
 
 
 <title>{{ page.title }}</title>
