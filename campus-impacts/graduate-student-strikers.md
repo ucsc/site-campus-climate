@@ -45,3 +45,14 @@ When a group of employees represented by a union defies that union and stages an
 <details>
 <summary>If a graduate student is subject to a conduct process related to these activities, will that be taken into consideration if they apply for future positions?</summary>
 <p>UCSC considers academic standing, employment record and student conduct when evaluating employment performance.</p> </details>
+
+<details>
+<summary>Is there a plan to support international students who are now at risk of losing their visa status?</summary> 
+
+<p>Graduate students, including international graduate students, who are not eligible to work as teaching assistants can continue their studies at UC Santa Cruz.</p>
+
+<p>Generally, international graduate students must maintain full-time enrollment as a requirement for their immigration status.  Appointment to a teaching assistant position is not a requirement for maintaining this status.</p>
+
+<p>The campus must confirm that a student has maintained their enrollment no later than 30 days from the beginning of the quarter.</p>
+
+
