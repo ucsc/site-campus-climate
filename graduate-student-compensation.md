@@ -33,11 +33,11 @@ In general, Teaching Assistants are employed at a 50% level which equates to 20 
 
 Over the past two months, UC Santa Cruz has committed to additional support for graduate students in recognition of the housing crisis faced by our community. Currently, 95% of fall grades have been submitted. 
 
-### Housing Supplement
+### Housing 
 
 Doctoral and MFA students within five and two years, respectively, and in good academic, conduct, and employment standing will be awarded annual $2,500 housing supplement until additional affordable campus housing for graduate students becomes available. In response to concerns that using a needs-based approach, even one expanded to include students who typically cannot apply for need-based aid, would disadvantage some students, the housing supplement will not be based on need.
 
-In recognition of the immediateness of this need, eligible graduate students who submit fall, winter, and spring grades will receive the $2,500 housing stipend retroactively in summer 2020. Doctoral and MFA students supported through GSR/Fellowship appointments will be included in the retroactive receipt of the housing supplement.
+In recognition of the immediateness of this need, eligible graduate students who submit fall, winter, and spring grades will receive the $2,500 housing supplement retroactively in summer 2020. Doctoral and MFA students supported through GSR/Fellowship appointments will be included in the retroactive receipt of the housing supplement.
 
 ### Five-Year Guarantees
 
@@ -65,7 +65,7 @@ These programs are in addition to Slug Support’s existing year-round emergency
 
 ### Deadlines
 
-Striking graduate students have had multiple deadlines by which to submit grades and receive the benefits outlined above. The original grade deadline was December 18th; the second deadline to avoid a Letter of Warning was February 2nd, and the final deadline to avoid dismissal from spring appointments was February 21st. At each stage, we have worked to be honest and clear about the outcomes for failing to honor the collective bargaining agreement. Given some clarity issues around the nature of the housing stipend, we have allowed faculty members until February 26th to confirm and submit all withheld grades. 
+Striking graduate students have had multiple deadlines by which to submit grades and receive the benefits outlined above. The original grade deadline was December 18th; the second deadline to avoid a Letter of Warning was February 2nd, and the final deadline to avoid dismissal from spring appointments was February 21st. At each stage, we have worked to be honest and clear about the outcomes for failing to honor the collective bargaining agreement. Given some clarity issues around the nature of the housing supplement, we have allowed faculty members until February 26th to confirm and submit all withheld grades. 
 
 While the unsanctioned nature of the strike and the closed contract for teaching assistants and graduate student instructors has made conversations around additional graduate student support challenging, the outline above reflects UC Santa Cruz’s strong commitment to improving support for graduate students through many mechanisms. This work will continue as we advocate for our students with both the system and the state and work to provide affordable housing on and near our campus. 
 
