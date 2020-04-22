@@ -33,7 +33,7 @@ In general, Teaching Assistants are employed at a 50% level which equates to 20 
 
 Over the past two months, UC Santa Cruz has committed to additional support for graduate students in recognition of the housing crisis faced by our community. Currently, 95% of fall grades have been submitted. 
 
-### Housing Stipend
+### Housing Supplement
 
 Doctoral and MFA students within five and two years, respectively, and in good academic, conduct, and employment standing will be awarded annual $2,500 housing supplement until additional affordable campus housing for graduate students becomes available. In response to concerns that using a needs-based approach, even one expanded to include students who typically cannot apply for need-based aid, would disadvantage some students, the housing supplement will not be based on need.
 
