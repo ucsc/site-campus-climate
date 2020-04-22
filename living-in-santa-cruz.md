@@ -58,7 +58,7 @@ Even with a better understanding of the costs, it is still clear that Santa Cruz
 Recognizing that the short-term challenge needs to be addressed while we focus on longer-term solutions, Chancellor Larive in January announced two new programs to provide doctoral and MFA students with greater financial security and predictability:
 
 - __5-year/50% Support Packages:__ Beginning in fall 2020, UCSC will offer new and continuing doctoral students support packages for five years (two years for MFA students). These packages will have a minimum level of support equivalent to that of a 50 percent teaching assistantship.
-- __$2500 Housing Supplement:__ Until more graduate student housing becomes available, an annual housing supplement for doctoral and MFA students offered through the Graduate Division.
+- __$2500 Housing Supplement:__ Until more graduate student housing becomes available, an annual housing supplement for doctoral and MFA students in good standing offered through the Graduate Division.
 
 Together, these programs--costing approximately $7 million per year--are being paid for through a reduction in funding for other campus programs and resources.
 
