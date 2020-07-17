@@ -5,9 +5,9 @@
     X-Content-Type-Options = "nosniff"
     X-XSS-Protection = "1; mode=block"
     X-Frame-Options = "DENY"
-  [[redirects]]
-    from = "/campus-advisory/"
-    to = "https://news.ucsc.edu/2020/02/graduate-student-strike-updates.html"
-    status = 302
-    force = true
+[[redirects]]
+  from = "/campus-advisory/"
+  to = "https://news.ucsc.edu/2020/02/graduate-student-strike-updates.html"
+  status = 302
+  force = true
 
