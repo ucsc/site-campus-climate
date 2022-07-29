@@ -7,13 +7,13 @@ menu: "Comments"
 sidebar: true
 left_col: true
 order: 7
-front: 
+front:
   bg: "#13a5dc"
   color: "#fff"
   icon: "speech-bubble-6.svg"
 ---
 
-<form class="pa2 black-80" name="comments" method="POST" data-netlify="true">
+<form class="pa2 black-80" name="comments" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <div class="pa2">
     <label for="name" class="f5 db mb2 navy">Your name</label>
     <input type="text" id="name" name="name" />
@@ -42,6 +42,7 @@ front:
   <label for="comment" class="f5 db mb2 navy">Comments</label>
     <textarea id="comment" name="comment" class="db border-box hover-black w-100 measure h4 ba b--black-20 pa2 br2 mb2"></textarea>
   </div>
+  <div class="pa2" data-netlify-recaptcha="true"></div>
   <div class="pa2">
     <button class="f5 br3 link dim ph3 pv3 mb2 dib white bg-dark-blue" type="submit">Send your comments</button>
   </div>
